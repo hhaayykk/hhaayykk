@@ -10,7 +10,7 @@ Don’t waste time digging through history.
 
 ---
 
-## 🧠 Coding style
+## 🧠 Coding Style
 Idc about “perfect” or “clean” code.
 
 If it works → it ships.  
