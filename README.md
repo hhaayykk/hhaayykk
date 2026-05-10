@@ -1,4 +1,4 @@
-# Hayk Arustamyan | :contentReference[oaicite:0]{index=0} Software Developer
+# Hayk Arustamyan | Software Developer
 
 💻 Mobile • Frontend • Bots • Automation • APIs • etc...
 
