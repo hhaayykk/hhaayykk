@@ -1,16 +1,17 @@
-# Hayk Arustamyan
-Software Developer | Yerevan
+# Hayk Arustamyan | :contentReference[oaicite:0]{index=0} Software Developer
 
-### Tech
-* **Development:** Mobile, Frontend, Automation tools, Bots, etc.
-* **Stack:** Whatever I want.  💻
+💻 Mobile • Frontend • Bots • Automation • APIs • etc...
 
 ---
 
-### API Keys & History
-Any API keys in the commit history are revoked and non-functional. At the start, I wasn't experienced with Git history mechanics and how commits store data. All legacy credentials have been replaced with environment variables. Don't waste your time.
+## 🔐 API Keys / Git History
+Old commits had API keys - they’re revoked and dead.  
+Don’t waste time digging through history.
 
 ---
 
-### 
-I build systems to work. If you don't like my code, style, or commit history — I don't care. Results matter, your opinion doesn't. 🖕
+## 🧠 Code Philosophy
+I don’t care about “perfect” or “clean” code.
+
+If it works → it ships.  
+If it breaks → I fix it and move on. 🚬
