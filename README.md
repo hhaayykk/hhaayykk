@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hayk Arustamyan
+Software Developer | Yerevan
 
-<!--
-**hhaayykk/hhaayykk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech
+* **Development:** Mobile, Frontend, Automation tools, Bots, etc.
+* **Stack:** Whatever I want.  💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### API Keys & History
+Any API keys in the commit history are revoked and non-functional. At the start, I wasn't experienced with Git history mechanics and how commits store data. All legacy credentials have been replaced with environment variables. Don't waste your time.
+
+---
+
+### 
+I build systems to work. If you don't like my code, style, or commit history — I don't care. Results matter, your opinion doesn't. 🖕
