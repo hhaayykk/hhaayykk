@@ -5,4 +5,4 @@ Don’t waste time digging through history.
 ---
 
 ## Coding Style
-Idc about “perfect” or “clean” code. 🚬
+Idc about perfect or clean code. 🚬
